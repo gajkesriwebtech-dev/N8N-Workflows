@@ -147,7 +147,7 @@
             },
             {
               "name": "key",
-              "value": "gemini-api"
+              "value": "gemini_api_key"
             }
           ]
         },
